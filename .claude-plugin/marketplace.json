@@ -1,0 +1,5 @@
+{
+  "name": "bubblegum-fizz",
+  "owner": { "name": "HemalathaMadeswaran18" },
+  "plugins": [{ "name": "bubblegum-fizz", "source": "./" }]
+}
